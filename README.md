@@ -1,6 +1,7 @@
 # Cardiovascular-Disease-prediction-using-ML
 <a href = "https://github.com/KrishBakshi/Cardiovascular-Disease-prediction-using-ML">
 <img src="https://mahavirdiagnosticcentre.com/img/diagnostic/2d-echo-and-ecg.jpg" width="500"></a>
+
 -This projects aims to predict the possibility of Cardiovascular Disease.
 scular Disease using Cardiovascular Disease dataset, Dataset : https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset/data
 -This projects include:
